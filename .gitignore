@@ -1,2 +1,5 @@
+*
 !*.md
-!*.png
+!img/
+!img/*
+.DS_Store
